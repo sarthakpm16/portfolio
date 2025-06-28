@@ -1,9 +1,7 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <main>
-      <h1>Hi, I'm Sarthak</h1>
+      <h1>Hi, I&apos;m Sarthak</h1>
       <p>a 16 year old from DC. currently: making it easier for teachers to understand their students :)</p>
 
       <h2>exp</h2>
