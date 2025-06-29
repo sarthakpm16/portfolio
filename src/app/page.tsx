@@ -23,7 +23,7 @@ export default function Home() {
 
       <h2><em>philosophies</em></h2>
       <ul>
-        <li>a cold lemonade's tanginess and sweetness combined is what makes it so refreshing</li>
+        <li>a cold lemonade&apos;s tanginess and sweetness combined is what makes it so refreshing</li>
         <li>the p in pmf is for pivot</li>
         <li>bootstrap and beat funded incumbents</li>
         <li>the blue is <a href="https://open.spotify.com/user/31kmlc2ptfj6f6xqshiqla5lyzle" className="text-blue-600 hover:text-blue-800">melodic</a></li>
