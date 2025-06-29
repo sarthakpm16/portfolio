@@ -7,7 +7,6 @@ import {
   useMotionValue,
   useSpring,
 } from "motion/react";
-import { cn } from "../../lib/utils";
 
 export const MelodicLink = () => {
   const [isOpen, setOpen] = React.useState(false);
