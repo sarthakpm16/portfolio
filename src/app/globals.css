@@ -125,6 +125,19 @@ a:hover {
   color: #174ea6;
 }
 
+/* Special styling for the melodic link */
+a.text-blue-600 {
+  color: #2563eb;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+a.text-blue-600:hover {
+  color: #1d4ed8;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
   width: 12px;
