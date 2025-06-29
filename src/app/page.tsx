@@ -1,6 +1,8 @@
+import { LinkPreview } from "../components/link-preview";
+
 export default function Home() {
   return (
-    <main>
+    <main className="w-full max-w-4xl mx-auto px-6 py-12">
       <h1>Hi, I&apos;m Sarthak</h1>
       <p>a 16 year old from DC. currently: making it easier for teachers to understand their students :)</p>
 
@@ -19,13 +21,20 @@ export default function Home() {
         <li>sold soccer jerseys in middle school</li>
       </ul>
 
+      <h2><em>philosophies</em></h2>
+      <ul>
+        <li>a cold lemonade's tanginess and sweetness combined is what makes it so refreshing</li>
+        <li>the p in pmf is for pivot</li>
+        <li>bootstrap and beat funded incumbents</li>
+      </ul>
+
       <h2>reach me:</h2>
-      <p>
-        <a href="https://klinn.works">klinn</a> /{' '}
-        <a href="https://linkedin.com/in/sarthak-pal-mahajan">linkedin</a> /{' '}
-        <a href="https://x.com/sarthathak">X</a> /{' '}
-        <a href="https://instagram.com/sarthathak">instagram</a>
-      </p>
+      <div>
+        <LinkPreview url="https://klinn.works">klinn</LinkPreview> /{' '}
+        <LinkPreview url="https://linkedin.com/in/sarthak-pal-mahajan">linkedin</LinkPreview> /{' '}
+        <LinkPreview url="https://x.com/sarthathak">X</LinkPreview> /{' '}
+        <LinkPreview url="https://instagram.com/sarthathak">instagram</LinkPreview>
+      </div>
     </main>
   );
 }
