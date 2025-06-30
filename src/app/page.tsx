@@ -9,7 +9,7 @@ export default function Home() {
 
       <h2>exp</h2>
       <ul>
-        <li>founder @ klinn - quick & easy internship cold emailing for premeds. 14k+ users. partnered w/ ora ai (yc s23), crackd, harvard tech, etc. currently pivoting</li>
+        <li>founder @ klinn - quick & easy internship cold emailing for premeds. 15k+ users. partnered w/ ora ai (yc s23), crackd, harvard tech, etc. currently pivoting</li>
         <li>founding partner @ egglabs - YC for youth orgs</li>
         <li>exec director @ crabhacks - annual hackathon for high schoolers. raised $4.5k+</li>
         <li>state officer @ md deca - 1700+ members. also placed top 10 internationally out of 200k+ members</li>
