@@ -35,7 +35,7 @@ export default function Home() {
         <LinkPreview url="https://klinn.works">klinn</LinkPreview> /{' '}
         <LinkPreview url="https://linkedin.com/in/sarthak-pal-mahajan">linkedin</LinkPreview> /{' '}
         <LinkPreview url="https://x.com/sarthathak">X</LinkPreview> /{' '}
-        <LinkPreview url="https://instagram.com/sarthathak">instagra,</LinkPreview> /{' '}
+        <LinkPreview url="https://instagram.com/sarthathak">instagram</LinkPreview> /{' '}
         <LinkPreview url="https://github.com/sarthakpm16">github</LinkPreview>
         
       </div>
