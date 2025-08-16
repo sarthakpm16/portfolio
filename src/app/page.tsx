@@ -17,7 +17,7 @@ export default function Home() {
 
       <h2>random accomplishments:</h2>
       <ul>
-        <li>2.5m+ impressions across linkedin & x. growth is my moat</li>
+        <li>3m+ impressions across socials. i post content on insta, tiktok, linkedin, x, and yt.</li>
         <li>was working on an app. failed.</li>
         <li>sold soccer jerseys in middle school</li>
       </ul>
