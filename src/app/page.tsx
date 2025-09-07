@@ -11,13 +11,13 @@ export default function Home() {
       <ul>
         <li>founder @ klinn - quick & easy internship cold emailing for premeds. 18k+ users. partnered w/ ora ai (yc s23), crackd, harvard tech, etc. currently pivoting</li>
         <li>founding partner @ egglabs - YC for youth orgs</li>
-        <li>exec director @ crabhacks - annual hackathon for high schoolers. raised $4.5k+</li>
+        <li>exec director @ crabhacks - annual hackathon for high schoolers. raised $7.5k+</li>
         <li>state officer @ md deca - 1800+ members. also placed top 10 internationally out of 200k+ members</li>
       </ul>
 
       <h2>random accomplishments:</h2>
       <ul>
-        <li>3m+ impressions across socials. i post content on insta, tiktok, linkedin, x, and yt.</li>
+        <li>4m+ impressions across socials. i post content on insta, tiktok, linkedin, x, and yt.</li>
         <li>was working on an app. failed.</li>
         <li>sold soccer jerseys in middle school</li>
       </ul>
