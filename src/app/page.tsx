@@ -5,11 +5,11 @@ export default function Home() {
   return (
     <main className="w-full max-w-4xl mx-auto px-6 py-12">
       <h1>Hi, I&apos;m Sarthak</h1>
-      <p>a 16 year old from DC. currently: helping kids find internships and schools improve cte programs</p>
+      <p>a 16 year old from DC. currently: helping kids find internships and schools understand student progress outside the classroom.</p>
 
       <h2>exp</h2>
       <ul>
-        <li>founder @ klinn - quick & easy internship cold emailing for premeds. 18k+ users. partnered w/ ora ai (yc s23), crackd, harvard tech, etc. currently pivoting</li>
+        <li>founder @ klinn - 20k+ users. partnered w/ ora ai (yc s23), crackd, harvard tech, etc.</li>
         <li>founding partner @ egglabs - YC for youth orgs</li>
         <li>exec director @ crabhacks - annual hackathon for high schoolers. raised $7.5k+</li>
         <li>state officer @ md deca - 1800+ members. also placed top 10 internationally out of 200k+ members</li>
