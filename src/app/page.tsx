@@ -9,8 +9,8 @@ export default function Home() {
 
       <h2>exp</h2>
       <ul>
-        <li>founder @ klinn - 20k+ users. hiring assessments for startups to pre-vet growth and gtm interns.</li>
-        <li>exec director @ crabhacks - annual hackathon for high schoolers. raised $7.5k+</li>
+        <li>founder @ klinn - 23k+ users. hiring assessments for startups to pre-vet growth and gtm interns.</li>
+        <li>exec director @ crabhacks - annual hackathon for high schoolers. raised $15k+</li>
         <li>state officer @ md deca - 1800+ members. also placed top 10 internationally out of 200k+ members</li>
       </ul>
 
