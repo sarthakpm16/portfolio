@@ -27,6 +27,7 @@ export default function Home() {
         <li>the p in pmf is for pivot</li>
         <li>bootstrap and beat funded incumbents</li>
         <li>increase your surface area to luck</li>
+        <li>do it for the love of the game</li>
         <li>the blue is <MelodicLink /></li>
       </ul>
 
