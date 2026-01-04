@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sarthak Says",
+  title: "Sarthak Pal Mahajan",
   description: "Sarthak likes lemonade.nm",
   icons: {
     icon: "/favicon.ico",
