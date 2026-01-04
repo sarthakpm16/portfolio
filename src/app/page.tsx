@@ -4,7 +4,7 @@ import { MelodicLink } from "../components/melodic-link";
 export default function Home() {
   return (
     <main className="w-full max-w-4xl mx-auto px-6 py-12">
-      <h1>Hi, I&apos;m Sarthak</h1>
+      <h1>Hi, I&apos;m Sarthak Pal Mahajan</h1>
       <p>a 16 year old from MD. Working with founders to help them find the best interns in growth, GTM, and marketing.</p>
 
       <h2>exp</h2>
